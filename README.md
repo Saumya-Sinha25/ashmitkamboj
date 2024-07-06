@@ -1,3 +1,4 @@
+- 🕶️ Hey, I'm an Btech CSE Undergraduate at Galgotias University!
 - 👋 Hi, I’m @ashmitkamboj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
